@@ -1,0 +1,6 @@
+package objetos
+
+fun main()
+{
+
+}
